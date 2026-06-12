@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Interactivo FANI - Métodos Numéricos",
+  "description": "Plataforma interactiva de simulación y análisis de Fenómenos Aéreos Anómalos No Identificados (FANI) aplicando métodos numéricos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
