@@ -1,0 +1,20 @@
+====================================================================
+               FICHA TÉCNICA UNIFICADA DE ENTREGA
+====================================================================
+
+Título del proyecto: 
+Sistema Interactivo FANI - Métodos Numéricos
+
+Enlace de la página web publicada: 
+https://carloss369.github.io/recuperatori/
+
+Enlace del repositorio Git: 
+https://github.com/carloss369/recuperatori
+
+Datos del estudiante: 
+[Ingresar Apellidos, Nombre del estudiante aquí]
+
+====================================================================
+* Nota para el estudiante: Reemplace los corchetes [] con su nombre real 
+  antes de guardar o imprimir este documento como PDF/TXT.
+====================================================================
